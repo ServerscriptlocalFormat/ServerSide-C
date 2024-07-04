@@ -1,0 +1,4 @@
+1. Open You roblox studio game
+2. Select MainModule.rbxmN.rbxm
+3. Put MainModule... To StarterGui
+4. Uncopylocked.
